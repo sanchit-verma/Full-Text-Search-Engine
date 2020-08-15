@@ -1,0 +1,22 @@
+{
+    "students": [
+         {
+            "id" : "01",
+            "name" : "sanchit verma",
+            "age" : "19",
+            "about" : "loves faimly, friends and food but struggles to code."
+        },
+        {
+            "id" : "02",
+            "name" : "Monu kumar",
+            "age" : "20",
+            "about" : "loves Dhoni , sainik school,Class-representative, yaaron ka yaar, all-rounder."
+        },
+        {
+            "id" : "03",
+            "name" : "viku",
+            "age" : "20",
+            "about": "love friends, coder, serious guy."
+        }
+    ]
+}
