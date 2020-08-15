@@ -1,6 +1,6 @@
 # Search Engine Project
 A Full-text unigram search engine implemented in c++.
-## Project Authors - 
+## Project Author - 
 - Sanchit Verma
 ## Aim
 The aim of this project is to build a prototype of a search engine which works on Student database and retrieve the details based on query.This search engine takes user student database in json format.
